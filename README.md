@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm KRiPPto99</h1>
-<h3 align="center">A passionate Learner from India</h3>
+<h1 align="center">Hola 👋, I'm KRiPPto99</h1>
+<h3 align="center">A Human who believe in himself</h3>
 
 - 🔭 I’m currently working on **Speech Emotion Recognition**
 
